@@ -1,0 +1,13 @@
+#include <iostream>
+using namespace std;
+int main ()
+{
+int n;
+cout<<"ingrese el número: ";
+cin>>n;
+if(n%2==0){
+cout<<"el número"<<n<<"es impar"<<endl;}
+else{
+cout<<"el número"<<n<<"es impar"<<endl;}
+return 0;
+}
