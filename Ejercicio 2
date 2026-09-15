@@ -1,0 +1,11 @@
+#include <iostream>
+using namespace std;
+int main ()
+{
+int A=5,B=10;
+A=5;
+B=10;
+C=(A++ + ++B)*2;
+cord <<A<<B<<C;
+return 0;
+}
