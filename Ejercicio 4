@@ -1,0 +1,10 @@
+#include <iostream>
+using namespace std;
+int main ()
+{
+int Y=4,X=4;
+Y=++X;
+X=X++ + ++Y;
+cord <<X<<Y;
+return 0;
+}
