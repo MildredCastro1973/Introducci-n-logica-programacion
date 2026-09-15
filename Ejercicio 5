@@ -1,0 +1,9 @@
+#include <iostream>
+using namespace std
+int main ()
+{
+int A=10, B=4;
+C=A/B mod 4*3+B-1;
+cord<<C;
+return 0;
+}
